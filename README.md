@@ -29,7 +29,7 @@ Submit a pull request
 
 ## License
 
-Nimbus is licensed under the [insert license here] license. See LICENSE for more information.
+Nimbus is licensed under the [MIT License](LICENSE) license. See LICENSE for more information.
 
 ## Support
 
